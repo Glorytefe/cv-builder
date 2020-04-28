@@ -1,0 +1,325 @@
+/* navbar starts */
+
+.navbar {
+    background-color: rgb(59, 59, 248);
+}
+
+.navbar-nav li a  {
+    color: white!important;
+    margin-right: 30px!important;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ref a {
+    border: 1px solid rgb(103, 103, 236);
+    background-color: rgb(103, 103, 236) ;
+    border-radius: 5px;
+}
+
+.cv1 {
+    background-image: url('/cv-builder/image/2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black!important;
+
+}
+
+.cv11 {
+    padding-top: 150px;
+}
+
+.cv1b h1 {
+    color: white;
+    padding-bottom: 20px;
+}
+
+.cv1b p  {
+    color: white;
+    font-size: 22px;
+    padding-bottom: 15px;
+}
+
+.btn-learn {
+    border: 1px solid white;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 200px;
+}
+
+.btn-learn:hover {
+    color: blue;
+    background-color: white;
+}
+
+.cv2 {
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.cv2 span {
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 20px;
+    letter-spacing: 1;
+    box-shadow: 0px 3px 12px -2px rgb(189, 188, 188);
+}
+.cv2a .fa {
+    background-color: rgb(36, 109, 247);
+    color: white;
+    text-align: center!important;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-left: -25px
+}
+
+.cv2 h2 {
+    padding-top: 25px;
+}
+
+.cv2 h3 {
+    color: grey;
+    font-size: 25px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.cv2 p {
+    color: grey;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
+.cv2c {
+    padding: 30px 40px;
+    margin-bottom: 30px;
+}
+
+.cv2c:hover {
+    background-color: white;
+    box-shadow: 0px 3px 12px -2px rgb(189, 188, 188) ;
+    cursor: pointer;
+}
+
+.cv2c img {
+    max-width: 70px;
+}
+
+.cv2c h1 {
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 18px;
+}
+
+.cv3a {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cv3a span {
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 20px;
+    letter-spacing: 1;
+    box-shadow: 0px 3px 12px -2px rgb(189, 188, 188);
+}
+.cv3a .fa {
+    background-color: rgb(36, 109, 247);
+    color: white;
+    text-align: center!important;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-left: -25px
+}
+
+.cv3c {
+    /* padding-bottom: 30px; */
+    box-shadow: 0px 3px 12px  -3px rgb(189, 188, 188);
+}
+
+.cv3c img {
+    max-width: 100%;
+}
+
+.cv3c a:hover {
+    text-decoration: none;
+}
+.cv4 {
+    padding-left: 0px!important;
+}
+
+.cv3c h3 {
+    font-size: 20px;
+}
+.cv4 li {
+    display: inline!important;
+    list-style: none;
+
+}
+.cv3c span {
+    color: grey;
+}
+
+
+.cv3c .status  {
+    color: rgb(251,165, 26);
+}
+.cv3c .fa{
+    color: rgb(251,165, 26);
+
+}
+    
+.cv-fa .fa {
+    background-color:white;
+    color: blue;
+    text-align: center!important;
+    font-size: 20px;
+    border-radius: 100%;
+    box-shadow: 0px 3px 12px  -3px rgb(189, 188, 188);
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+  
+   
+
+}
+
+.grry .fa{
+    color: grey;
+}
+
+.cv-fa li {
+    list-style: none;
+    display: inline;
+   
+    /* padding-left: 5px; */
+}
+
+.cv-fa {
+    /* margin-left: 20px!important; */
+    text-align: center!important;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.cvv-v {
+    background-color: rgb(247, 242, 242);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+    display: inline;
+    
+}
+
+.cvvv-vv {
+    margin-right: 50px!important;
+    padding-left: 60px!important;
+}
+
+.cvv {
+    text-align: center;
+}
+.cvv span {
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 20px;
+    letter-spacing: 1;
+    box-shadow: 0px 3px 12px -2px rgb(189, 188, 188);
+    background-color: white;
+}
+
+.cvv1b {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.cvv1a .fa {
+    font-size: 30px;
+}
+
+.job-content {
+    padding: 5px 15px 10px 15px;
+}
+
+.cvv .fa {
+    background-color: rgb(36, 109, 247);
+    color: white;
+    text-align: center!important;
+    border-radius: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-left: -25px
+}
+
+.cvv h2 {
+    padding-top: 30px;
+}
+
+.cvv h3 {
+    color: grey; 
+    font-size: 25px;  
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.cvv1 {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.cvv1a {
+    padding-bottom: 30px;
+    padding-top: 10px;
+    box-shadow: 0px 3px 12px  -2px rgb(134, 133, 133);
+    background-color: white;
+    text-align: center!important;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+    /* margin-right: 5px; */
+    /* display: inline; */
+    /* padding: 10px 40px; */
+}
+
+.cvv1a img{
+    max-width: 80%;
+}
+
+.cvv1a h2 {
+    font-size: 15px;
+}
+
+.cvv1a p{
+    font-size: 14px;
+    text-align: center;
+    /* letter-spacing: 1; */
+}
+
+.cvv1c {
+    text-align: left;
+    font-size: 15px;
+}
+
+.cvv1c span {
+    font-size: 12px;
+}
+
+.last {
+    background-color: rgb(49, 49, 167);
+}
+.btn-sign {
+    text-align: center;
+}
+
