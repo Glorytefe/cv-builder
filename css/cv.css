@@ -3,6 +3,11 @@
 .navbar {
     background-color: rgb(59, 59, 248);
 }
+.nav-item :hover {
+    border: 1px solid rgb(25, 113, 196);
+    background-color: rgb(25, 113, 196);
+    border-radius: 5px;
+}
 
 .navbar-nav li a  {
     color: white!important;
@@ -317,9 +322,124 @@
 }
 
 .last {
-    background-color: rgb(49, 49, 167);
-}
-.btn-sign {
-    text-align: center;
+    background-color: rgb(7, 59, 79);
 }
 
+.last-cv span {
+    text-align: center;
+    border:  1px solid black;
+    /* padding: 15px 90px; */
+    background-color: white;
+    border-radius: 5px;
+    padding-right: 100px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.sec-last {
+    
+    /* margin-bottom: 20px; */
+}
+
+.last-cv {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 0.1px solid rgb(156, 154, 154);
+  
+}
+
+.sign {
+    background-color: rgb(12, 69, 224)!important;
+    margin-left: -90px;
+    padding: 14px 14px!important;
+    color: white;
+    font-size: 15px!important;
+}
+
+.las {
+    /* padding: 0px!important; */
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.las li {
+    list-style: none;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.las .fa{
+    color: rgb(76, 90, 219);
+}
+.las a {
+    text-decoration:none;
+    color: white;
+    font-size: 14px;
+}
+
+.lasst {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top:  0.1px solid rgb(156, 154, 154);
+}
+
+.lasst span {
+    color: white;
+}
+.grp1 .fa{
+    background-color: orange;
+    /* padding: 12px 7px; */
+    padding-top: 11px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 13px;
+    color: white;
+    font-size: 25px;
+    margin-left: -55px;
+    text-align: center!important;
+    /* margin-top: 15px; */
+    border-radius: 5px;
+}
+.fa-2 li {
+    list-style: none;
+    display: inline!important;
+    margin-top: 10px;
+}
+
+.fa-2{
+    padding-left: 0px!important;
+}
+.fa-2 .fa {
+    background-color: white;
+    padding-top: 8px;
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    text-align: center!important;
+    font-size: 18px;
+    
+}
+
+.fa-2 a {
+    text-decoration:none;
+    padding-right: 5px;
+}
+
+.llast h2{
+    padding-top: 60px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.llast p {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
